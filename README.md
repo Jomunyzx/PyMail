@@ -18,5 +18,5 @@ This Python script allows you to send emails using the SMTP protocol with a secu
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Jomunyzx/PyMail.git
    cd your-repo
